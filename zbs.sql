@@ -1,0 +1,1 @@
+SELECT dane FROM students 
